@@ -1,0 +1,17 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" height="297mm" width="210mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 744.09448819 1052.3622047" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<defs>
+<linearGradient id="b">
+<stop stop-color="#757575" offset="0"/>
+</linearGradient>
+<linearGradient id="c" y2="382" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="183" y1="357" x1="152"/>
+<filter id="d" style="color-interpolation-filters:sRGB" height="2.64" width="2.49" y="-.821" x="-.745">
+<feGaussianBlur stdDeviation="7.8325309"/>
+</filter>
+<linearGradient id="a" y2="204" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="624" y1="204" x1="367"/>
+</defs>
+<g>
+<rect stroke-linejoin="round" ry="17.3" height="110" width="206" stroke="#effff8" stroke-linecap="round" y="342" x="137" stroke-width="10.5"/>
+<text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="scale(.511 1.96)" stroke="url(#a)" font-size="52.7px" y="223.03079" x="314.83136" font-family="sans-serif" line-height="125%" fill="#f5d4c7"><tspan stroke="url(#a)" y="223.03079" x="314.83136" font-family="&apos;Abyssinica SIL&apos;" fill="#f5d4c7">Hello World!</tspan></text>
+<path d="m153 381c1.43-18.3 13.1-22.6 25.2-22.9" fill-rule="evenodd" filter="url(#d)" stroke="url(#c)" stroke-linecap="round" stroke-width="11.6"/>
+</g>
+</svg>

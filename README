@@ -1,0 +1,14 @@
+This is simple template for writing xfce4 panel plugins using GTK3 and cmake.
+Most of this code is taken from xfce-whiskermenu.
+I think it will be very useful for me later. I would like to not lost it, so I
+uploaded it to github :).
+
+
+For xubuntu users below info might be useful:
+
+xubuntu plugin location:
+/usr/lib/x86_64-linux-gnu/xfce4/panel/plugins
+
+Location for *.desktop file:
+/usr/share/xfce4/panel/plugins/
+
